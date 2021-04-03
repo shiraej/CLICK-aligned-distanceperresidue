@@ -3,7 +3,7 @@ import math
 f = open("str1_1ok8-str2_1svb.1.pdb")
 g = open("str2_1svb-str1_1ok8.1.pdb")
 h = open("str1_1ok8-str2_1svb.pdb.1.clique")
-i = open("ResRMSDtest.txt", "xt")
+i = open("ResRMSD.txt", "xt")
 
 PDB1ResNum = []
 PDB2ResNum = []
